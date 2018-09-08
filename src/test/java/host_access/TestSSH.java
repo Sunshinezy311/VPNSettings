@@ -1,6 +1,4 @@
-package HostAccess;
-
-import HostAccess.BySSH;
+package host_access;
 
 public class TestSSH {
     public static void main(String[] args) {
